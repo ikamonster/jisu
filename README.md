@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="_pzN1dcFPUaFYxcPlHEiya8gcZHC-Mw45k8oKt0IP6I" />
-
 # ブラウザー拡張機能『字数』
 
 <img src="https://user-images.githubusercontent.com/3040830/150821548-d713ccb2-2bfe-455e-b1fc-5b1ad5571cbb.png" alt="ss1" width="427px"/>
