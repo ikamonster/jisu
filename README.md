@@ -1,6 +1,6 @@
 # ブラウザー拡張機能『字数』
 
-<img src="https://user-images.githubusercontent.com/3040830/168622207-0b2fa2e6-9cd2-42ec-9c14-9321bf187be7.png" alt="screen shot" width="640px"/>
+<img src="https://user-images.githubusercontent.com/3040830/169294613-2a845472-eba8-4f39-9888-82f75ab0d9eb.png" alt="screen shot" width="640px"/>
 
 ### ダウンロード・インストール
 - [Chrome Web Store](https://chrome.google.com/webstore/detail/dgnmohofbgnaacababkedheeannmdohi)
