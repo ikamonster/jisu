@@ -1,5 +1,3 @@
-# ブラウザー拡張機能『字数』
-
 <img src="https://user-images.githubusercontent.com/3040830/169294613-2a845472-eba8-4f39-9888-82f75ab0d9eb.png" alt="screen shot" width="640px"/>
 
 ### ダウンロード・インストール
