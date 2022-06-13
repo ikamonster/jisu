@@ -153,6 +153,7 @@ UTF-16を含むUnicodeにおいて一部の文字、日本語なら濁点・半�
 |[Automated Readability Index](https://en.wikipedia.org/wiki/Automated_readability_index)|技術|1967|学年|4.71 * (文字数 / 単語数) + 0.5 * (単語数 / 文数) - 21.43||
 |[Coleman–Liau Index](https://en.wikipedia.org/wiki/Coleman%E2%80%93Liau_index)|教育|1975|学年|0.0588 * (文字数 / 単語数 * 100) - 0.296 * (文数 / 単語数 * 100) - 15.8||
 |[SMOG](https://en.wikipedia.org/wiki/SMOG)|健康|1969|学年|1.043 * √(難読語数 * 30 / 文数) + 3.1291|要|
+|[Lensear Write](https://en.wikipedia.org/wiki/Linsear_Write)|行政|1966|学年|(難読語数 * 3 + 非難読語数) / 文数 / 2 ※結果が10以下ならさらに-1|要|
 |[FORCAST](https://en.wikipedia.org/wiki/Readability#The_FORCAST_formula)|実用|1973|学年|20 - (単音節単語数 * 150 / 単語数 / 10)|要|
 
 - FREの得点は値が高いほど読みやすいことを示します。100は小学５年生、０は大学を卒業した専門家の水準です。
